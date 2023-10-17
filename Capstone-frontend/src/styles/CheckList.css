@@ -1,0 +1,26 @@
+.fa-check-circle,
+.fa-circle {
+    margin-right: 8px;
+}
+
+.white-bg-container {
+    background-color: white;
+    padding: 21px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.trouble-booking {
+    text-align: center;
+    margin-top: 15px;
+    color: black;
+}
+
+.booking-email {
+    display: block;
+    color: #007bff;
+    text-decoration: underline;
+    margin-top: 5px;
+    font-weight: bold;
+}

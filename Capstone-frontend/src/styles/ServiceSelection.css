@@ -1,0 +1,34 @@
+.header {
+    color: black;
+    text-align: center;
+}
+
+.sub-select {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+.sub-select select {
+    color: black;
+    background-color: white;
+}
+
+.sub-select select:focus {
+    color: black;
+    background-color: white;
+}
+
+.sub-select select option {
+    color: black;
+    background-color: white;
+}
+
+.css-2b097c-container {
+    margin: 0 auto;
+    max-width: 300px; 
+}
+
+.with-margin {
+    margin-bottom: 10px;
+}

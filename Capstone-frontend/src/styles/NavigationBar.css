@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,800&family=PT+Serif:wght@400;700&family=Source+Code+Pro:wght@300;400;900&display=swap');
+
+
+.bold-font {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+
+.regular-font {
+    font-family: 'PT Serif', serif;
+    font-weight: 400;
+}
+
+
+.left-title {
+    margin-right: auto;
+}
+
+.navbar {
+    background-color: #333;
+    position: relative;
+    z-index: 2;
+}
+
+.home-navbar {
+    position: absolute;
+    width: 100%;
+    z-index: 2;
+    background-color: transparent;
+}
+
+.navbar .nav-link {
+    color: white;
+}
+
+.navbar .nav-link:hover {
+    color: gold;
+}
+
+.navbar .navbar-brand {
+    color: goldenrod;
+}
+
+.navbar .navbar-brand:hover {
+    color: gold;
+}
+
+.active-nav {
+    color: goldenrod !important;
+    background-color: transparent;
+    border-radius: 0;
+}
